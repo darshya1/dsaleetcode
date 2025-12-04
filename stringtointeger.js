@@ -29,3 +29,8 @@ var myAtoi = function (s) {
 };
 
 console.log(myAtoi("1duqsbuhdbuqbdub"));
+/**
+ * conversion of the regex learnt small amount of regex
+ *
+ *
+ */

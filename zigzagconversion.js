@@ -28,3 +28,7 @@ var convert = function (s, numRows) {
 };
 
 console.log(convert("abcdefgh", 4));
+
+/*
+ * learn to make array with particular size and insert in then somithing
+ */
